@@ -24,25 +24,10 @@
 <div align="center"> 
   <span>
     🔹
-    <a href="https://number-game-demo.netlify.app/" target="_blank">배포 주소 바로가기</a>  
+    <a href="https://number-game-demo.netlify.app/" target="_blank">숫자 맞추기 게임 바로가기</a>  
   </span>
 </div>
 <br/><br/>
-<div align="center">  
-  <h2>
-    🌱
-    <br/>
-    Deploy
-  </h2>
-  <h3>
-    배포
-  </h3>
-</div>
-<div align="center">
-  <span>    
-    <a href="https://web-growgreen-eg4e2alkkyf0ef.sel4.cloudtype.app/" target="_blank">사이트 바로가기</a>
-  </span>
-</div>
 <div align="center">  
   <h2>
     🍀<br/>
