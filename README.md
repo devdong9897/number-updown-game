@@ -15,19 +15,16 @@
   <h2>
     Project demo image
   </h2>
-  <h3>
-    시연 영상    
-  </h3>
 </div>
 <div align="center">
 
-![image](https://github.com/kimaydev/winey/assets/130676442/26cb3073-5c89-4302-ae23-d027f886784d)
+![image](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcrwQI2%2FbtsLbU0ltPW%2FKbsYJHckbkKtcNVlM3i9f0%2Fimg.png)
 
 </div>
 <div align="center"> 
   <span>
     🔹
-    <a href="https://youtu.be/vHhbiamXgDo" target="_blank">시연 영상 바로가기</a>  
+    <a href="https://number-game-demo.netlify.app/" target="_blank">배포 주소 바로가기</a>  
   </span>
 </div>
 <br/><br/>
